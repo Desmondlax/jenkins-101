@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo "Building.."
                 sh '''
-                echo "am i doing build stuff? i am"
+                echo "what is a build stuff?"
                 '''
             }
         }
